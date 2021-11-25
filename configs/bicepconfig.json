@@ -1,0 +1,15 @@
+{
+    "moduleAliases": {
+        "br": {
+            "myModules": {
+                "registry": "cloudburst.azurecr.io"
+            }
+        },
+        "ts": {
+            "mySpecs": {
+                "subscription": "19a40d9e-404c-4b46-996d-2f88331816f3",
+                "resourceGroup": "cloudburst-demo-rg"
+            }
+        }
+    }
+}

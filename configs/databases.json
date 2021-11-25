@@ -1,0 +1,17 @@
+[
+    {
+        "name": "db4",
+        "skuName": "GP_Gen5_2",
+        "env": "prod"
+    },
+    {
+        "name": "db5",
+        "skuName": "Basic",
+        "env": "dev"
+    },
+    {
+        "name": "db6",
+        "skuName": "S0",
+        "env": "prod"
+    }
+]
